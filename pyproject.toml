@@ -21,11 +21,14 @@ dependencies = [
     "notebook>=7.6.3",
     "ollama>=0.6.3",
     "openai>=3.35.1",
+    "pydantic>=2.12.5",
+    "pydantic-core>=2.41.5",
     "pymupdf>=2.0",
     "pypdf>=6.21.2",
     "python-dotenv>=1.2.4",
     "qdrant-client>=1.19.1",
     "scikit-learn>=1.9.1",
+    "unstructured[md]>=0.27.34",
 ]
 
 [project.scripts]
