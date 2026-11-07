@@ -28,7 +28,7 @@ dependencies = [
     "python-dotenv>=1.2.4",
     "qdrant-client>=1.19.1",
     "scikit-learn>=1.9.1",
-    "unstructured[md]>=0.27.34",
+    "unstructured[md,pdf]>=0.27.34",
 ]
 
 [project.scripts]
